@@ -1,0 +1,83 @@
+F:\thực hành C#\formMain\formMain\bin\Debug\formMain.exe.config
+F:\thực hành C#\formMain\formMain\bin\Debug\formMain.exe
+F:\thực hành C#\formMain\formMain\bin\Debug\formMain.pdb
+F:\thực hành C#\formMain\formMain\obj\Debug\formMain.csprojResolveAssemblyReference.cache
+F:\thực hành C#\formMain\formMain\obj\Debug\formMain.frm_qlbh.resources
+F:\thực hành C#\formMain\formMain\obj\Debug\formMain.frm_hoadonban.resources
+F:\thực hành C#\formMain\formMain\obj\Debug\formMain.frm_hoadonmua.resources
+F:\thực hành C#\formMain\formMain\obj\Debug\formMain.frm_khachhang.resources
+F:\thực hành C#\formMain\formMain\obj\Debug\formMain.frm_nhacungcap.resources
+F:\thực hành C#\formMain\formMain\obj\Debug\formMain.Properties.Resources.resources
+F:\thực hành C#\formMain\formMain\obj\Debug\formMain.frm_sanpham.resources
+F:\thực hành C#\formMain\formMain\obj\Debug\formMain.csproj.GenerateResource.Cache
+F:\thực hành C#\formMain\formMain\obj\Debug\formMain.exe
+F:\thực hành C#\formMain\formMain\obj\Debug\formMain.pdb
+F:\thực hành C#\formMain\formMain\obj\Debug\formMain.frm_trangchu.resources
+D:\lap trinh c#\formMain\formMain\bin\Debug\formMain.exe.config
+D:\lap trinh c#\formMain\formMain\obj\Debug\formMain.exe
+D:\lap trinh c#\formMain\formMain\obj\Debug\formMain.pdb
+D:\lap trinh c#\DO AN\formMain\bin\Debug\formMain.exe.config
+D:\lap trinh c#\DO AN\formMain\obj\Debug\formMain.exe
+D:\lap trinh c#\DO AN\formMain\obj\Debug\formMain.pdb
+D:\lap trinh c#\DO AN\formMain\bin\Debug\formMain.exe
+D:\lap trinh c#\DO AN\formMain\bin\Debug\formMain.pdb
+D:\lap trinh c#\DO AN\formMain\obj\Debug\formMain.csprojResolveAssemblyReference.cache
+D:\lap trinh c#\DO AN\formMain\obj\Debug\formMain.frm_qlbh.resources
+D:\lap trinh c#\DO AN\formMain\obj\Debug\formMain.frm_hoadonban.resources
+D:\lap trinh c#\DO AN\formMain\obj\Debug\formMain.frm_hoadonmua.resources
+D:\lap trinh c#\DO AN\formMain\obj\Debug\formMain.frm_khachhang.resources
+D:\lap trinh c#\DO AN\formMain\obj\Debug\formMain.Properties.Resources.resources
+D:\lap trinh c#\DO AN\formMain\obj\Debug\formMain.frm_sanpham.resources
+D:\lap trinh c#\DO AN\formMain\obj\Debug\formMain.frm_trangchu.resources
+D:\lap trinh c#\DO AN\formMain\obj\Debug\formMain.csproj.GenerateResource.Cache
+D:\lap trinh c#\DO AN\formMain\obj\Debug\formMain.frm_Banhang.resources
+D:\lap trinh c#\DO AN\formMain\obj\Debug\formMain.frm_NCC.resources
+D:\lap trinh c#\DO AN\formMain\obj\Debug\formMain.RibbonForm1.resources
+D:\lap trinh c#\DO AN\formMain\obj\Debug\formMain.UserControl1.resources
+D:\lap trinh c#\DO AN\FormDA\formMain\bin\Debug\formMain.exe.config
+D:\lap trinh c#\DO AN\FormDA\formMain\obj\Debug\formMain.exe
+D:\lap trinh c#\DO AN\FormDA\formMain\obj\Debug\formMain.pdb
+D:\lap trinh c#\DO AN\FormDA\formMain\bin\Debug\formMain.exe
+D:\lap trinh c#\DO AN\FormDA\formMain\bin\Debug\formMain.pdb
+D:\lap trinh c#\DO AN\FormDA\formMain\obj\Debug\formMain.csprojResolveAssemblyReference.cache
+D:\lap trinh c#\DO AN\FormDA\formMain\obj\Debug\formMain.frm_hoadonban.resources
+D:\lap trinh c#\DO AN\FormDA\formMain\obj\Debug\formMain.Properties.Resources.resources
+D:\lap trinh c#\DO AN\FormDA\formMain\obj\Debug\formMain.Ribbonform.resources
+D:\lap trinh c#\DO AN\FormDA\formMain\obj\Debug\formMain.csproj.GenerateResource.Cache
+D:\lap trinh c#\DO AN\FormDA\formMain\obj\Debug\formMain.UCBanhang.resources
+D:\lap trinh c#\DO AN\FormDA\formMain\obj\Debug\formMain.UCKhachhang.resources
+D:\lap trinh c#\DO AN\FormDA\formMain\obj\Debug\formMain.UCNhacungcap.resources
+D:\lap trinh c#\DO AN\FormDA\formMain\obj\Debug\formMain.UCNhapHang.resources
+D:\lap trinh c#\DO AN\FormDA\formMain\obj\Debug\formMain.UCSanpham.resources
+D:\lap trinh c#\DO AN\UserControl\formMain\bin\Debug\formMain.exe.config
+D:\lap trinh c#\DO AN\UserControl\formMain\obj\Debug\formMain.exe
+D:\lap trinh c#\DO AN\UserControl\formMain\obj\Debug\formMain.pdb
+D:\lap trinh c#\DO AN\UserControl\formMain\bin\Debug\formMain.exe
+D:\lap trinh c#\DO AN\UserControl\formMain\bin\Debug\formMain.pdb
+D:\lap trinh c#\DO AN\UserControl\formMain\obj\Debug\formMain.csprojResolveAssemblyReference.cache
+D:\lap trinh c#\DO AN\UserControl\formMain\obj\Debug\formMain.Properties.Resources.resources
+D:\lap trinh c#\DO AN\UserControl\formMain\obj\Debug\formMain.Ribbonform.resources
+D:\lap trinh c#\DO AN\UserControl\formMain\obj\Debug\formMain.UCBanhang.resources
+D:\lap trinh c#\DO AN\UserControl\formMain\obj\Debug\formMain.UCKhachhang.resources
+D:\lap trinh c#\DO AN\UserControl\formMain\obj\Debug\formMain.UCNhacungcap.resources
+D:\lap trinh c#\DO AN\UserControl\formMain\obj\Debug\formMain.UCNhapHang.resources
+D:\lap trinh c#\DO AN\UserControl\formMain\obj\Debug\formMain.UCSanpham.resources
+D:\lap trinh c#\DO AN\UserControl\formMain\obj\Debug\formMain.csproj.GenerateResource.Cache
+D:\lap trinh c#\DO AN\UserControl\formMain\obj\Debug\formMain.UCHDB.resources
+D:\lap trinh c#\DO AN\UserControl\UserControl\formMain\bin\Debug\formMain.exe.config
+D:\lap trinh c#\DO AN\UserControl\UserControl\formMain\obj\Debug\formMain.exe
+D:\lap trinh c#\DO AN\UserControl\UserControl\formMain\obj\Debug\formMain.pdb
+D:\lap trinh c#\DO AN\UserControl\UserControl\formMain\bin\Debug\formMain.exe
+D:\lap trinh c#\DO AN\UserControl\UserControl\formMain\bin\Debug\formMain.pdb
+D:\lap trinh c#\DO AN\UserControl\UserControl\formMain\obj\Debug\formMain.csprojResolveAssemblyReference.cache
+D:\lap trinh c#\DO AN\UserControl\UserControl\formMain\obj\Debug\formMain.frm_hoadonban.resources
+D:\lap trinh c#\DO AN\UserControl\UserControl\formMain\obj\Debug\formMain.Properties.Resources.resources
+D:\lap trinh c#\DO AN\UserControl\UserControl\formMain\obj\Debug\formMain.Ribbonform.resources
+D:\lap trinh c#\DO AN\UserControl\UserControl\formMain\obj\Debug\formMain.UCBanhang.resources
+D:\lap trinh c#\DO AN\UserControl\UserControl\formMain\obj\Debug\formMain.UCHDB.resources
+D:\lap trinh c#\DO AN\UserControl\UserControl\formMain\obj\Debug\formMain.UCKhachhang.resources
+D:\lap trinh c#\DO AN\UserControl\UserControl\formMain\obj\Debug\formMain.UCNhacungcap.resources
+D:\lap trinh c#\DO AN\UserControl\UserControl\formMain\obj\Debug\formMain.UCNhapHang.resources
+D:\lap trinh c#\DO AN\UserControl\UserControl\formMain\obj\Debug\formMain.UCSanpham.resources
+D:\lap trinh c#\DO AN\UserControl\UserControl\formMain\obj\Debug\formMain.csproj.GenerateResource.Cache
+D:\lap trinh c#\DO AN\UserControl\formMain\obj\Debug\formMain.Dangnhap.resources
